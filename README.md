@@ -1,10 +1,6 @@
-#### Sequence detector circuit implemented with verilog : 
+Sequence detector circuit implemented with verilog : 
 
-### State Diagram : 
-
-
-
-### State Table : 
+#### State Table : 
 <table>
   <tr>
   <th> Current State</th>
