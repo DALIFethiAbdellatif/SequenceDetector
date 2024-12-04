@@ -9,7 +9,7 @@
   <tr>
   <th> Current State</th>
   <th> Next State(in = 0, in = 1)</th>
-  <th> Output </th> </tr>
+  <th> Output(in = 0, in = 1) </th> </tr>
   <tr>
     <td> S0 </td>
     <td>S0, S1</td>
