@@ -1,5 +1,4 @@
-Sequence detector circuit implemented with verilog : 
-
+This is an overlapping sequence detector implemented using verilog language.
 #### State Table : 
 <table>
   <tr>
